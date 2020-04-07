@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://boring-franklin-63f3bc.netlify.com/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
